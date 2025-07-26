@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nileshsree.github.io/portfolio",
+  "homepage": "https://nileshsree.github.io",
   "dependencies": {
     "@radix-ui/react-label": "^2.1.7",
     "@radix-ui/react-progress": "^1.1.7",
