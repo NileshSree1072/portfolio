@@ -43,8 +43,8 @@ export const mockData = {
   
   skills: {
     languages: [
-      { name: "Python", level: 90 },
-      { name: "C++", level: 85 },
+      { name: "Python", level: 70 },
+      { name: "C++", level: 90 },
       { name: "Java", level: 80 },
       { name: "JavaScript", level: 75 },
       { name: "SQL", level: 70 },
@@ -74,8 +74,8 @@ export const mockData = {
       name: "College Chatbot",
       description: "Developed an AI-powered college chatbot using Rasa to handle student queries on admissions, courses, events, and policies with automated knowledge updates to keep responses accurate.",
       techStack: ["Python", "Rasa", "Natural Language Processing", "Machine Learning"],
-      github: "https://github.com/nileshsree/college-chatbot",
-      demo: "https://college-chatbot-demo.vercel.app",
+      github: "https://github.com/NileshSree1072/ssn-college-chatbot.git",
+      demo: "https://ssn-chatbot.vercel.app/",
       year: "2025",
       features: ["AI-powered responses", "Natural language understanding", "Automated knowledge updates", "Multi-domain query handling", "Real-time chat interface"]
     },
@@ -104,8 +104,8 @@ export const mockData = {
       name: "EzDelivery",
       description: "Designed and built EzDelivery, a grocery ordering web app using Next.js, MongoDB, AWS, and Google Cloud. Implemented real-time order tracking and optimized database queries, enhancing order processing efficiency by 30%.",
       techStack: ["Next.js", "MongoDB", "AWS", "Google Cloud", "Payment Gateway"],
-      github: "https://github.com/nileshsree/ezdelivery",
-      demo: "https://ezdelivery.vercel.app",
+      github: "https://github.com/NileshSree1072/ezdelivery.git",
+      demo: "https://ezdelivery.vercel.app/",
       year: "2023-2024",
       features: ["Real-time order tracking", "Secure payment gateway", "Optimized database queries", "Responsive design", "Cloud deployment", "Inventory management"]
     }
@@ -114,28 +114,35 @@ export const mockData = {
   certifications: [
     {
       name: "Data Structures and Algorithms",
-      issuer: "HackerRank",
+      issuer: "Code 360",
       date: "2024",
-      credentialId: "DSA2024HRK"
+      credentialId: "Coding Ninjas"
     },
     {
       name: "Python Programming",
       issuer: "Coursera",
-      date: "2024",
-      credentialId: "PY2024COURSERA"
+      date: "2025",
+      credentialId: "Ongoing"
     },
     {
       name: "Machine Learning Fundamentals",
-      issuer: "edX",
+      issuer: "Youtube",
       date: "2023",
-      credentialId: "ML2023EDX"
+      credentialId: "Ongoing"
     },
     {
-      name: "Web Development",
-      issuer: "freeCodeCamp",
-      date: "2023",
-      credentialId: "WD2023FCC"
+      name: "Programming in Java",
+      issuer: "NPTEL",
+      date: "2024",
+      credentialId: "NPTEL-JAVA-2024"
+    },
+    {
+      name: "Data Analytics on Google Cloud",
+      issuer: "Google Cloud",
+      date: "2024",
+      credentialId: "GCP-DA-2024"
     }
+  
   ],
   
   achievements: [
@@ -147,7 +154,7 @@ export const mockData = {
     {
       title: "League of Ninja Dominator",
       description: "Achieved top-tier recognition for coding proficiency and problem-solving skills in the Code Ninjas platform",
-      date: "2023"
+      date: "2025"
     },
     {
       title: "Best Innovation Award",
